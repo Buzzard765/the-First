@@ -16,4 +16,5 @@ evening, or even night. you can also buy ingredients while the
 restaurant is "still open" to create the cuisine.
 
 so far it's still relative small game, so i haven't think of improvement
-that will spruce the game
+that will spruce the game. if you have a suggestion of further feature
+to improve my game, feel free to add it, i will try my best to fulfill it
